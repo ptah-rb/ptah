@@ -6,8 +6,8 @@ require 'ptah/version'
 Gem::Specification.new do |gem|
   gem.name          = "ptah"
   gem.version       = Ptah::VERSION
-  gem.authors       = ["Daniel da Silva Ferreira"]
-  gem.email         = ["danieldasilvaferreira@gmail.com"]
+  gem.authors       = ["Hirohito Miyosui"]
+  gem.email         = ["hirohito.miyosui@miyosui.com"]
   gem.description   = %q{Ptah}
   gem.summary       = %q{Ptah}
   gem.homepage      = ""
